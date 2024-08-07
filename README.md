@@ -2,9 +2,13 @@
 
 I'm currently studying math/physics. 
 
+I enjoy working on challenging projects.
+
+---
+
 <details>
   <summary>
-    <img src="./materialicons/brush.png"> - Skills
+    Skills
   </summary>
   
 - Minecraft Plugins / Mods
@@ -14,9 +18,10 @@ I'm currently studying math/physics.
 
 </details>
 
+
 <details>
   <summary>
-    <img src="./materialicons/code.png"> - Languages
+    Languages
   </summary>
   
 - Java, Kotlin
@@ -26,3 +31,16 @@ I'm currently studying math/physics.
 - SQL
   
 </details>
+
+---
+
+<details>
+  <summary>
+    Contact
+  </summary>
+  
+
+  Discord: kino_a
+</details>
+
+
